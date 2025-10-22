@@ -90,7 +90,7 @@ Perfect for anyone looking to learn and showcase skills in **React**, **Next.js*
 
 ## 👨‍💻 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Front-End Developer | Building creative, animated, and user-friendly web experiences  
 
 ---

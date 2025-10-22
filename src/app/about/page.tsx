@@ -56,7 +56,7 @@ const AboutPage = () => (
             <h2 className="text-2xl font-semibold">The Creator</h2>
             <p className="mt-2 text-gray-300">
               This website is built and designed by{" "}
-              <strong>Hami Parsa</strong>, blending a passion for cinema with
+              <strong>Niku Namada</strong>, blending a passion for cinema with
               modern web design and development.
             </p>
           </div>

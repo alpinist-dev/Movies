@@ -90,7 +90,7 @@ Perfect for anyone looking to learn and showcase skills in **React**, **Next.js*
 
 ## 👨‍💻 Author
 
-**Developed by:** [Niku Namada](https://github.com/honestdev125)  
+**Developed by:** [Alpinist](https://github.com/alpinist-dev)  
 💬 Front-End Developer | Building creative, animated, and user-friendly web experiences  
 
 ---

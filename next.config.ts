@@ -8,10 +8,10 @@ const nextConfig: NextConfig = {
 
   // 2. Set the sub-path for GitHub Pages (e.g., /my-repo/)
   // If using a custom domain, set this to an empty string ''
-  basePath: isProd ? '/Movie/' : '',
+  basePath: isProd ? '/Movies/' : '',
 
   // 3. Ensure assets like CSS/JS use the correct path
-  assetPrefix: isProd ? '/Movie/' : '',
+  assetPrefix: isProd ? '/Movies/' : '',
 
   reactStrictMode: true,
   trailingSlash: true, // Recommended for static hosting
